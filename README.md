@@ -1,0 +1,1 @@
+udidm is an open source supermarket cash register system, I do not guarantee that it can be updated at any time, nor do I guarantee that all the problems can be solved, but you can leave your questions
